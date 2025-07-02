@@ -1,0 +1,25 @@
+.logo-image{
+    width: 80px;
+}
+.list-style{
+    list-style: none;
+}
+.li-margin{
+    margin: 0px 25px;
+}
+.li-margin-2{
+    margin: 0px 15px;
+}
+.login-button{
+    padding: 10px 50px;
+    border-radius: 11px;
+    color: white;
+    border: 0px;
+    background: #a33b44;
+}
+.menu-margin{
+    margin: 0px;
+}
+.drop-down{
+    width: 20px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Salmon Platter",
+        "id": "Salmon Platter",
+        "category": "Non Veg Platter",
+        "img_url": "/images/mainitem1.png"
+    },
+    {
+        "name": "Veg Platter Roll",
+        "id": "Veg Platter",
+        "category": "Veg Platter",
+        "img_url": "/images/mainitem2.png"
+    },
+    {
+        "name": "ALa Carte Menu",
+        "id": "Ala Carte",
+        "category": "Mixed Platter",
+        "img_url": "/images/mainitem3.png"
+    },
+        {
+        "name": "Non Veg Kabab",
+        "id": "Non veg kabab",
+        "category": "Non Veg Platter",
+        "img_url": "/images/mainitem4.png"
+    },
+        {
+        "name": "Mushroom Tikka",
+        "id": "Mushroom Tikka",
+        "category": "Veg Platter",
+        "img_url": "/images/mainitem5.png"
+    },
+        {
+        "name": "Nutri",
+        "id": "Nutri",
+        "category": "Veg Platter",
+        "img_url": "/images/mainitem6.png"
+    }
+]

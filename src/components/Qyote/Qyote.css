@@ -1,0 +1,14 @@
+.qyote-background{
+    background-color: #a33b44;
+    border-radius: 20px;
+}
+.qyote-row-margin{
+    margin: 50px;
+}
+
+.qyote-p-padding{
+    padding: 50px 75px;
+    color: white;
+    font-size: 32px;
+    text-align: justify;
+}

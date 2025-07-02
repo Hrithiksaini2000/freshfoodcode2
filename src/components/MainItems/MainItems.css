@@ -1,0 +1,36 @@
+.main-item-heading{
+    padding: 0px 180px;
+    text-align: center;
+}
+.paragraph-main-item{
+    padding: 0px 405px;
+}
+.items-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    margin-top: 30px !important;
+}
+.img-div{
+    background: #a33b44;
+    position: relative;
+    padding: 10px 15px 15px 15px;
+    text-align: center;
+    margin: 0px 10px;
+    border-radius: 30px;
+}
+.img-width{
+    width: 100%;
+    border-radius: 30px;
+}
+.itemainname{
+    position: absolute;
+    margin-top: -56%;
+    background: #000000a3;
+    color: white;
+    padding-bottom: 5px;
+    width: 362px;
+}
+.main-item-font{
+    font-size: 35px;
+}

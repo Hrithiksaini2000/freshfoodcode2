@@ -1,0 +1,54 @@
+.favoutite-heading{
+    font-size: 2.5rem;
+    padding: 0px 17rem;
+}
+.favorite-margin{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.favorite-paragraph{
+    text-align: center;
+    padding: 0px 22rem;
+}
+.favorite-img-width{
+    width: 100%;
+    border-radius: 50%;
+}
+.imagebackground{
+    background: #a33b44;
+    padding: 20px;
+    border-radius: 50%;
+}
+.card-1{
+    background: #a33b44;
+    padding: 20px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.fav-card-padding{
+    padding-left: 120px !important;
+}
+.food-name{
+    color: white;
+    font-size: 35px;
+}
+.order-div{
+    background: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    margin: 13px 15px 13px 50px;
+}
+.card-item{
+    padding: 0px 0px 0px 40px;
+}
+.card-item img{
+    border-radius: 50px;
+}
+.new-card-gap{
+    gap: 15px;
+}
+.order-color{
+    color: #a33b44;
+}
