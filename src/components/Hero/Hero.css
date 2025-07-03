@@ -2,7 +2,10 @@
     background: #a33b44;
     padding: 80px !important;
 }
-
+.new-back-row{
+    align-items: center;
+    background: #a33b44;
+}
 .heading1-title{
     color: white;
     font-size: 70px;

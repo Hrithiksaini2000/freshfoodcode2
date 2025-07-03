@@ -7,7 +7,7 @@ function Hero() {
         <>
             <section>
                 <div className='container-fluid'>
-                    <div className='row'>
+                    <div className='row new-back-row'>
                         <div className='col-md-6 text-background'>
                             <h1 className='heading1-title'>Fresh Food Great Taste With</h1>
                             <p className='paragraph-style'>We use only the freshest ingredients to create sushi that is both visually stunning and incredibly flavorful. Every bite is crafted with care, ensuring the perfect balance of taste and texture. Our commitment to quality guarantees a delightful dining experience. Enjoy sushi that looks as good as it
